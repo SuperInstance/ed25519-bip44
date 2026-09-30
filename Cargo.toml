@@ -1,9 +1,11 @@
 [package]
 name = "ed25519-bip44"
 version = "0.1.0"
-description = "A Rust library for Ed25519 Bip44"
+description = "Ed25519 Bip44 — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/ed25519-bip44"
+repository = "https://github.com/SuperInstance/ed25519-bip44"
 edition = "2021"
+
+keywords = ["ed25519-bip44"]
 
 [dependencies]
